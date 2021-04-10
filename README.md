@@ -31,4 +31,8 @@
 <li>
   CW - An abreviation for "Community Warning", a community warning essentually warns the community within a specific platform of your wrongdoings / actions and this later leads to repfucking.
 </li>
-
+<br>
+</br>
+<li>
+  Spoon Feeding - A form of giving an individual code without letting them understand how to make it function or without letting them digest the knowledge by themselves. This usually leads to skidding.
+</li>
