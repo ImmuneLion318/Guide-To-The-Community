@@ -46,3 +46,8 @@
 <li>
   Luafag - An individual which dedicates his whole time to lua scripting, he doesn't attempt to learn any other programming language and stays entitled to his "lua skills". Ex: Masterzz#0002
 </li>
+<br>
+</br>
+<li>
+   Jsfag - An individual which dedicates his whole time to js coding, he doesn't attempt to learn any other programming language and stays entitled to his "js skills". Ex: Wabz#0001
+</li>
