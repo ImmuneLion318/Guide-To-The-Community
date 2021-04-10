@@ -15,6 +15,4 @@
  Introduction
   </u>
   </h2>
-<h1 align="center"> 
-</h1>
 <h3> The reason at which I have made this guide is because many CWs are made each day and the community is filled with mistakes upon mistakes </h3>
