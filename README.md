@@ -36,3 +36,8 @@
 <li>
   Spoon Feeding - A form of giving an individual code without letting them understand how to make it function or without letting them digest the knowledge by themselves. This usually leads to skidding.
 </li>
+<br>
+</br>
+<li>
+  Repfucking - A way to ruin one's reputation, this means people losing faith, trust and respect for you. This is usually caused by "CW"s.
+</li>
