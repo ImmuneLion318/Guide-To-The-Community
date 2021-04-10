@@ -16,4 +16,12 @@
   </u>
   </h2>
 <a> The reason at which I have made this guide is because many CWs are made each day and the community is filled with mistakes upon mistakes. Such examples include selling sources which they have absolutely 0 ownership over, ratting, logging and or any other immoral actions. At this point it seems as if the community is a bad influence to younger teens and we experience more and more unecessary issues each day. This guide is used in order to help a person who wishes to get into exploiting and possibly contribute to the community in a way whilst staying safe from exposure or unecessary drama. This guide will have more advice given from people who have experienced this community for years and saw it change.<br> </br> TLDR: Bad people, bad influence and bad morals caused me to make this. </a>
+<br>
+</br>
+<h2>
+<u>
+  Terms : Definitions
+<u>
+</h2>
+  
 
