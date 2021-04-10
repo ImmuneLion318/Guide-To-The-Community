@@ -74,6 +74,9 @@
   <br>
   </br>
   <li> Remember that some things just shouldn't be released, such as a WeAreDevs API exploit. The community understands you wish to contribute and be noticed but this isn't a release which is needed! </li>
+<br>
+  </br>
+  <li> Leaking or releasing something which isn't yours for revenge isn't respectable or admirable unless the individual has done harm to you or a group of people. Leaking a source can lead to a cw or repfucking. </li>
 
 </ol>
 
