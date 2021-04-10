@@ -41,3 +41,8 @@
 <li>
   Repfucking - A way to ruin one's reputation, this means people losing faith, trust and respect for you. This is usually caused by "CW"s.
 </li>
+<br>
+</br>
+<li>
+  Luafag - An individual which dedicates his whole time to lua scripting, he doesn't attempt to learn any other programming language and stays entitled to his "lua skills".
+</li>
