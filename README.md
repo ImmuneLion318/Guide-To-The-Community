@@ -3,3 +3,7 @@
   <a> This is a How to Guide </a>
   <a> On Surviving in the Community </a>
 </p>
+<br>
+<p align="center">
+  
+</p>
