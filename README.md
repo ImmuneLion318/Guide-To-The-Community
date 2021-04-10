@@ -63,6 +63,9 @@
 </li>
  <h2>
   <u>
- Basic Principles
+ Rules & Principles
   </u>
   </h2>
+<ol type="1">
+  <li> Synapse Dickriders have absolutely 0 knowledge on the concept upon exploiting. Their general idea is that Synapse X is the best exploit and nothing can compete. </li>
+</ol>
