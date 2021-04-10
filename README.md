@@ -72,3 +72,7 @@
   </br>
   <li> Don't attempt to steal code from others and <b> sell </b> it. This will result in either a cw being made or other consequences to occur. Trust is more valuable than a couple bucks. </li>
 </ol>
+ <br>
+  </br>
+  <li> Remember that some things just shouldn't be released, such as a WeAreDevs API exploit. The community understands you wish to contribute and be noticed but this isn't a release which is needed! </li>
+</ol>
