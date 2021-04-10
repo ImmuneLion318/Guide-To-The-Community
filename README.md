@@ -8,13 +8,9 @@
    <a href="https://roblox.com" title="Roblox">
     <img src="https://cdn.discordapp.com/attachments/784639424931561502/830467142239256576/roblox-logo-roblox-symbol-meaning-history-evolution-81.png">
   </a>
-  <h1 align="center"> 
-
-  </h>
+ 
 </p>
 <details open>
-  <br>
-  </br> 
   <summary>
     Introduction
   </summary>
