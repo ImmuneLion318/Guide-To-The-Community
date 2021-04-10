@@ -70,5 +70,5 @@
   <li> Synapse Dickriders have absolutely 0 knowledge on the concept upon exploiting. Their general idea is that Synapse X is the best exploit and nothing can compete. </li>
   <br>
   </br>
-  <li> Don't attempt to steal code from others and <b> sell </b> it. </li>
+  <li> Don't attempt to steal code from others and <b> sell </b> it. This will result in either a cw being made or other consequences to occur. Trust is more valuable than a couple bucks. </li>
 </ol>
