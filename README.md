@@ -56,3 +56,8 @@
 <li>
    Pyfag - An individual which dedicates his whole time to python coding, he doesn't attempt to learn any other programming language and stays entitled to his "python skills". Ex: MCgamin1738#0577
 </li>
+ <h2>
+  <u>
+ Basic Principles
+  </u>
+  </h2>
