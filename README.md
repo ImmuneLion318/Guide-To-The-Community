@@ -17,6 +17,7 @@
   <summary>
     Introduction
   </summary>
+  <br> </br>
   <p>
     <a> The reason at which I had made this guide is to teach the newbies / new exploiters on how to act within the exploit community </a>
   </p>
