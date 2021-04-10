@@ -44,5 +44,5 @@
 <br>
 </br>
 <li>
-  Luafag - An individual which dedicates his whole time to lua scripting, he doesn't attempt to learn any other programming language and stays entitled to his "lua skills".
+  Luafag - An individual which dedicates his whole time to lua scripting, he doesn't attempt to learn any other programming language and stays entitled to his "lua skills". Ex: Masterzz#0002
 </li>
