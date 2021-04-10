@@ -6,6 +6,6 @@
 <br>
 <p align="center">
    <a href="https://roblox.com" title="Roblox">
-    <img src="https://cdn.discordapp.com/attachments/784639424931561502/830466496819888148/roblox-logo-roblox-symbol-meaning-history-evolution-8.png">
+    <img src="https://cdn.discordapp.com/attachments/784639424931561502/830467142239256576/roblox-logo-roblox-symbol-meaning-history-evolution-81.png">
   </a>
 </p>
