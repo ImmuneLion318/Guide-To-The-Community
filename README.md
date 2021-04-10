@@ -14,7 +14,5 @@
 
   </h>
 <details open>
- <h1>
-   Introduction
-  </h1>
+  
 </details>
