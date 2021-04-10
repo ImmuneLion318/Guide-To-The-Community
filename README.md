@@ -15,8 +15,8 @@
   </h>
 <details open>
  <h1>
-   <Summary>
+   <summary>
      Introduction
-   </Summary>
+   </summary>
   </h1>
 </details>
