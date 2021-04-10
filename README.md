@@ -24,7 +24,7 @@
 <u>
 </h2>
 <li>
-  Skid - An individual which enjoys to steal code and not learn from what they copy paste. These individuals are fairly common in this community and usually show up to dll source releases
+  Skid - An individual which enjoys to steal code (without providing credit to the original owner of the code) and not learn from what they copy paste. These individuals are fairly common in this community and usually show up to dll source releases
 </li>
   <br>
   </br>
