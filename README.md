@@ -44,6 +44,11 @@
 <br>
 </br>
 <li>
+  ServerSide - A filtering enabled bypass, a serverside is essentially a game executor which can bypass Roblox's filtering enabled feature which was added in 2017-2018. To use a serverside you must have access to a serverside such as sinner ss or nebula ss. A ss is made possible with backdoors which infect the game (a backdoor can be a plugin or model). 
+</li>
+<br>
+</br>
+<li>
   Luafag - An individual which dedicates his whole time to lua scripting, he doesn't attempt to learn any other programming language and stays entitled to his "lua skills". Ex: Masterzz#0002
 </li>
 <br>
@@ -54,7 +59,7 @@
 <br>
 </br>
 <li>
-   Pyfag - An individual which dedicates his whole time to python coding, he doesn't attempt to learn any other programming language and stays entitled to his "python skills". Ex: MCgamin1738#0577
+   Pyfag - An individual which dedicates his whole time to python coding, he doesn't attempt to learn any other programming language and stays entitled to his "python skills". Ex: MCgamin1738#7147
 </li>
  <h2>
   <u>
