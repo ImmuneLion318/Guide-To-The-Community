@@ -100,7 +100,7 @@
 <u>
 </h2>
 <ol type="1">
-  <li> V3rmillion.net - One of the most popular forums for Roblox exploiting, giveaways, disputes and more. Along with their increasing userbaseand, this forum was released to the public in early 2016 and has gone through major changes. However, as to having many competent developers it also has its fair share of toxic users, scammers, skids, shitposters, multi accounters, and people with huge egos due to their reputation count. </li>
+  <li> V3rmillion.net - One of the most popular forums for Roblox exploiting, giveaways, disputes and more. Along with their increasing userbase, this forum was released to the public in early 2016 and has gone through major changes. However, as to having many competent developers it also has its fair share of toxic users, scammers, skids, shitposters, multi accounters, and people with huge egos due to their reputation count. </li>
 <br>
 </br>
  <li> Clubdark.net - A forum made by a pedophile, superskater911, this forum never once had positive activity nor had any competent developers or contributers whatsoever. It's officially used to seek out revenue for superskater911 due to his exploit's failure in improving. The site doesn't seem to be secure at the least and shouldn't be used by any new exploiter.  </li> 
