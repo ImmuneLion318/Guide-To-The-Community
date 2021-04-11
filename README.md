@@ -99,8 +99,6 @@
   Forums & Community
 <u>
 </h2>
-<br>
-  </br>
 <ol type="1">
   <li> V3rmillion.net - One of the most popular forums for Roblox exploiting and with over thousands of users, this forum was released to the public in early 2016 and has gone through major changes. However, as to having many competent developers it also has its fair share of toxic users, scammers, multi accounters, and people with huge egos due to their reputation count. </li>
 </ol>
