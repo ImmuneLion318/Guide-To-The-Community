@@ -77,6 +77,11 @@
 <br>
   </br>
   <li> Leaking or releasing something which isn't yours for revenge isn't respectable or admirable unless the individual has done harm to you or a group of people. Leaking a source can lead to a cw or repfucking. </li>
-
+<br>
+  </br>
+  <li> Don't act like you are smarter or in anyway more intelligible than other developers when all you know is to copy & paste C++ sources such as Axon or Calamari. </li>
+<br>
+  </br>
+  <li> Don't overhype / excite exploit users over a new product, providing the truth to the product gives better understanding over why the exploit isn't "perfect". Honesty is what matters. </li>
 </ol>
 
