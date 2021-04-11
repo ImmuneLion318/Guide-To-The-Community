@@ -94,8 +94,6 @@
   </br>
   <li> Don't overhype / excite exploit users over a new product, providing the truth to the product gives better understanding over why the exploit isn't "perfect". Honesty is what matters. </li>
 </ol>
-<br>
-</br>
 <h2>
 <u>
   Forums & Community
