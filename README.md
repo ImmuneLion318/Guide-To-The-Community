@@ -61,6 +61,16 @@
 <li>
    Pyfag - An individual which dedicates his whole time to python coding, he doesn't attempt to learn any other programming language and stays entitled to his "python skills". Ex: MCgamin1738#7147
 </li>
+ <br>
+  </br>
+<li>
+  Axon - A dll source from an exploit back from 2016 (wrapper) , it is widely known to be skidded / pasted into many free exploits because of the incompetence of other developers. 
+</li>
+ <br>
+  </br>
+<li>
+  Calamari - A leaked dll source from an IOS exploit (transpiler) , it is widely known to be skidded / pasted into many free exploits because of the incompetence of other developers. 
+</li>
  <h2>
   <u>
  Rules & Principles
