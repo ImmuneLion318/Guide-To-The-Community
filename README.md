@@ -106,5 +106,5 @@
  <li> Clubdark.net - A forum made by a pedophile, superskater911, this forum never once had positive activity nor had any competent developers or contributers whatsoever. It's officially used to seek out revenue for superskater911 due to his exploit's failure in improving. The site doesn't seem to be secure at the least and shouldn't be used by any new exploiter.  </li> 
  <br>
  </br>
-  <li> Wearedevs.net - This forum is a very popular environment for new exploiters with many questions to ask. Most members aren't necessarily experienced within understanding how Roblox exploits seem to work or function however can provide you an answer or two to a question you might have. People believe this website is associated with malware, however I assure you that majority seem to be safe.</li>
+  <li> Wearedevs.net - This forum is a very popular environment for new exploiters with many questions to ask. Most members aren't necessarily experienced within understanding how Roblox exploits seem to work or function however can provide you an answer or two to a question you might have (Chances are that they will answer it and get it wrong). People believe this website is associated with malware, however I assure you that majority seem to be safe.</li>
 </ol>
